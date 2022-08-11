@@ -1,5 +1,6 @@
 - 👋 Hii there I am @omkarpavtekar99
-- I am intrested in Data Science and Machine Learning. Tech Savy
+- I am intrested in Data Science and Machine Learning. 
+- Tech Savy
 - Competing with myself and constantly working on myself to improve on daily basis.
 - Focused and Hardworking.
 - Currently completing IBM Data Science Professional Certificaion. 
