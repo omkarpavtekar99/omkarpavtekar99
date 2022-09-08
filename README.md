@@ -4,5 +4,5 @@
 - Competing with myself and constantly working on myself to improve on daily basis.
 - Focused and Hardworking.
 - Currently completing IBM Data Science Professional Certificaion. 
-- And as of August 2022 I completed my Post Graduate Certification in Data Sciecne and Machine Learning from IIT Roorkee. 
+- Completed my Post Graduate Certification in Data Sciecne and Machine Learning from IIT Roorkee. 
 - You can reach me on Opavtekar@gmail.com on Gmail or https://www.linkedin.com/in/omkar-pavtekar-2b0754170/ on Linkedin.
