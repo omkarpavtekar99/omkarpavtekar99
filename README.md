@@ -1,58 +1,73 @@
 <h1 align="center">Hi, I'm Omkar 👋</h1>
 
 <p align="center">
-Working on data systems, analytics, and AI applications
+Data Systems • Analytics • AI Applications
+</p>
+
+<p align="center">
+Building data-driven systems, exploring LLMs, and optimizing real-world workflows
 </p>
 
 ---
 
-### 🧠 About
+### 🚀 What I’m Working On Right Now
 
-I build data-driven systems and explore how they behave in real-world scenarios —  
-from large-scale data pipelines to LLM-based applications.
-
-Recently focused on:
-- LLM systems (RAG, evaluation, routing)
-- System performance (latency, throughput, cost)
-- Debugging and improving production-like workflows
+- 🧠 **Energy AI Copilot** — LLM + RAG + Speech system for real-time query handling and decision support  
+- 📊 **Fraud & AML Systems** — Transaction monitoring, threshold optimization, and alert analysis  
+- ⚙️ **LLM Evaluation Framework** — Benchmarking using golden datasets, A/B testing, and drift detection  
+- 🔀 **Model Routing & Observability** — Latency, cost, and performance-aware AI systems  
+- 📈 **Data Pipelines** — Scalable ETL systems using PySpark and SQL  
 
 ---
 
-### ⚙️ What I work with
+### 🧠 My Approach
 
-Python • SQL • PySpark • FastAPI  
-Power BI • Databricks  • OpenAI APIs  
-
----
-
-### 🔍 Interests
-
-- Understanding system bottlenecks and optimization  
-- Designing simple but scalable solutions  
-- Evaluating AI systems beyond just accuracy  
-- Trade-offs: speed vs quality vs cost  
+- Build systems that **scale and are reliable**  
+- Prefer **clarity over complexity**  
+- Focus on **performance, not assumptions**  
+- Optimize for **latency, cost, and quality trade-offs**  
+- Treat AI as a **system problem, not just a model problem**  
 
 ---
 
-### 📂 Projects
+### ⚙️ Technologies I Work With
 
-Most of my work here revolves around:
-- Data pipelines and analytics systems  
-- Fraud detection and monitoring use cases  
-- LLM-based systems (RAG, evaluation, observability)  
-- Experiments around performance and system behavior  
+#### Languages
+Python • SQL  
+
+#### Data & Backend
+PySpark • FastAPI • PostgreSQL • Databricks  
+
+#### AI / ML
+LLMs • RAG • Evaluation Frameworks • Model Routing  
+Whisper (ASR) • FAISS  
+
+#### Systems & Tools
+Power BI • ETL Pipelines • Monitoring & Logging  
 
 ---
 
-### 🚀 Currently exploring
+### ✍️ Notes & Learning
 
-- LLM evaluation and benchmarking  
-- Model routing and optimization strategies  
-- Observability for AI systems  
-- Speech + text pipelines  
+- Understanding latency vs quality in AI systems  
+- Evaluating LLM outputs beyond exact match  
+- Debugging failures across retrieval, prompts, and models  
+- Designing systems with real-world constraints  
+
+---
+
+### 🤝 Let’s Build Something Useful
+
+If you're working on:
+- Data systems  
+- AI applications  
+- Analytics problems  
+
+Happy to collaborate 🚀  
 
 ---
 
 ### 📫 Connect
 
 LinkedIn: https://linkedin.com/in/omkar-pavtekar
+Outlook: omkar.pavtekar@outlook.com
