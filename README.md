@@ -12,7 +12,7 @@ Building data-driven systems, exploring LLMs, and optimizing real-world workflow
 
 ### 🚀 What I’m Working On Right Now
 
-- 🧠 **Energy AI Copilot** — LLM + RAG + Speech system for real-time query handling and decision support  
+- 🧠 **AI Copilot** — LLM + RAG + Speech system for real-time query handling and decision support  
 - 📊 **Fraud & AML Systems** — Transaction monitoring, threshold optimization, and alert analysis  
 - ⚙️ **LLM Evaluation Framework** — Benchmarking using golden datasets, A/B testing, and drift detection  
 - 🔀 **Model Routing & Observability** — Latency, cost, and performance-aware AI systems  
